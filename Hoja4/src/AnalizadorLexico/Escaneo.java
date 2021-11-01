@@ -220,11 +220,35 @@ public class Escaneo {
         }return tex5.toString();
     }
 
+    public String Resultados6(String path) throws IOException {
+        //devuelve el contenido del codigo a analizar
+        ArrayList<String> codeArray = getcode(path);
+
+        StringBuilder tex6 = new StringBuilder();
+        int contL, codelen = codeArray.size();
+        int i, j;
+        contL = 1;;
+        String concept = "=";
+        for (j = 0; j < codelen; j++) {
+            String line = codeArray.get(j);
+            String[] lineArray = line.split(" ");
+            for (int k = 0; k < lineArray.length; k++){
+                String word = lineArray[k];
+                if (concept.equals(word)) {
+                    String res3 = "       Literal  '"+ lineArray[k+1]+", linea " + contL;
+                    tex6.append(res3).append("\n");
+                }
+            }
+            contL++;
+        }return String.valueOf(tex6);
+        
+    }
+
     //escribe el archivo resultados
     public String Resultados(String path) throws FileNotFoundException, IOException{
         //escritura de reporte
         String text = Resultado1(path) +"\n"+ Resultado2(path)+"\n"+ Resultado3(path);
-        String text1 = "\n"+Resultado4(path)+"\n"+Resultado5(path);
+        String text1 = "\n"+Resultado4(path)+"\n"+Resultado5(path)+"\n"+Resultados6(path);
         String TEXT = text + text1;
         FileWriter fw = new FileWriter("Reporte.txt");
         fw.write(TEXT);
