@@ -72,5 +72,21 @@ public class Diccionarios {
         }return dic4Array;
     }
 
+    //diccionario tipos de variables
+    public ArrayList<String> getDiccionario5() throws IOException {
+        File dic = new File ("Diccionario5.txt");
+        FileReader fr5 = new FileReader (dic);
+        BufferedReader br5 = new BufferedReader(fr5);
+
+        ArrayList<String> dic5Array = new ArrayList<>();
+
+        //contenido del diccionario
+        String lineaDic = br5.readLine();
+        while((lineaDic)!=null){
+            dic5Array.add(lineaDic);
+            lineaDic = br5.readLine();
+        }return dic5Array;
+    }
+
 
 }

@@ -185,11 +185,46 @@ public class Escaneo {
         }return tex4.toString();
     }
 
+    //resultados de comparacion con identificadores
+    public String Resultado5(String path) throws IOException {
+
+        //instancia de clase Diccionario, devuelve arraylist con contenido del diccionario
+        Diccionarios dic5 = new Diccionarios();
+        ArrayList<String> dic5Array = new ArrayList<>();
+        dic5Array = dic5.getDiccionario5();//array con el diccionario
+
+        //devuelve el contenido del codigo a analizar
+        ArrayList<String> codeArray = getcode(path);
+
+        StringBuilder tex5 = new StringBuilder();
+        int contL;
+        int diclen = dic5Array.size(), codelen = codeArray.size();
+        int i, j;
+
+        for (i = 0; i < diclen; i++) {
+            contL = 1;
+            String[] linedic = dic5Array.get(i).split(" ");
+            String concept = linedic[0];
+            for (j = 0; j < codelen; j++) {
+                String line = codeArray.get(j);
+                String[] lineArray = line.split(" ");
+                for (int k = 0; k < lineArray.length; k++){
+                    String word = lineArray[k];
+                    if (concept.equals(word)) {
+                        String res3 = "       Identificador  '"+ lineArray[k+1]+"'  de tipo  '" + concept + "', linea " + contL;
+                        tex5.append(res3).append("\n");
+                    }
+                }
+                contL++;
+            }
+        }return tex5.toString();
+    }
+
     //escribe el archivo resultados
     public String Resultados(String path) throws FileNotFoundException, IOException{
         //escritura de reporte
         String text = Resultado1(path) +"\n"+ Resultado2(path)+"\n"+ Resultado3(path);
-        String text1 = "\n"+Resultado4(path);
+        String text1 = "\n"+Resultado4(path)+"\n"+Resultado5(path);
         String TEXT = text + text1;
         FileWriter fw = new FileWriter("Reporte.txt");
         fw.write(TEXT);
