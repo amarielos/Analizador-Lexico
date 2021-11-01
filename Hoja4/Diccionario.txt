@@ -1,0 +1,23 @@
+(  →  Parentesis abierto
+)  →  Parentesis cerrado
+[  →  Corchete abierto
+]  →  Corchete cerrado
+{  →  Llave abierta
+}  →  Llave cerrada
++  →  Signo de suma / concatenación
+-  →  Signo de resta
+/  →  Signo de división
+*  →  Signo de multiplicación
+^  →  Signo de potencia
+%  →  Signo de resto de división entera 
+;  →  Punto y coma 
+,  →  Coma
+.  →  Punto
+=  →  Operador de asignación
+<  →  Operador menor que
+>  →  Operador mayor que
+&  →  Operador de producto lógico binario
+|  →  Operador de suma lógica binaria
+~  →  Operador de negación o complemento binario
+!  →  Operador de negación unario
+?  →  Operador condicional

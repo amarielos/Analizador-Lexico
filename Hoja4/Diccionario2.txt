@@ -1,0 +1,18 @@
+++  →  Operador incremento
+--  →  Operador decremento
+==  →  Operador igual que
+!=  →  Operador diferente que
++=  →  Operador suma combinada
+-=  →  Operador resta combinada
+*=  →  Operador producto combinado
+/=  →  Operador división combinado
+%=  →  Operador resto combinado
+<=  →  Operador menor igual que
+=>  →  Operador mayor igual que
+&&  →  Operador lógico AND
+||  →  Operador lógico OR
+//  →  Comentario de una linea
+/*  →  Comentario de una o más líneas inicia
+*/  →  Comentario termina
+<<  →  Operador desplazamiento izquierda
+>>  →  Operador desplazamiento derecha

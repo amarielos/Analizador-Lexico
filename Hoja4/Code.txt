@@ -1,0 +1,110 @@
+package AnalizadorLexico;
+import java.io.*;
+import java.util.ArrayList;
+
+public class Escaneo { 
+
+    //resultados de comparacion con datos de 1 caracter
+    String Resultado1() throws IOException {
+
+        //instancia de clase Diccionario, devuelve arraylist con contenido del diccionario
+        Diccionarios dic = new Diccionarios();
+        ArrayList<String> dicArray = new ArrayList<>();
+        dicArray = dic.getDiccionario();//array con el diccionario
+
+        //instancia de la clase Code, devuelve el contenido del codigo a analizar
+        Code code = new Code();
+        ArrayList<String> codeArray = new ArrayList<>();
+        codeArray = code.getCode();
+
+        String lineaCalc, tex1 = "";
+        char[] lineaC;
+        int contL;
+
+        //contenido del reporte
+        int diclen = dicArray.size();
+        int i, j;
+
+
+        for (i = 0; i < diclen; i++) {
+            contL = 1;
+            String lineaDic = dicArray.get(i);
+            char simb = lineaDic.charAt(0);
+            for (String s : codeArray) {
+
+                lineaCalc = s;
+                lineaC = lineaCalc.toCharArray();
+                for (j = 0; j < lineaC.length; j++) {
+                    char var = lineaC[j];
+
+                    if (var == simb) {
+                        String res = "       " + lineaDic + " posición " + (j + 1) + ", linea " + contL;
+                        tex1 += res + "\n";
+                    }
+                }
+                contL++;
+            }
+        }
+        return tex1;
+    }
+
+
+    //resultados de comparacion con datos de 2 caracteres
+    public String Resultado2() throws IOException {
+
+        //instancia de clase Diccionario, devuelve arraylist con contenido del diccionario
+        Diccionarios dic2 = new Diccionarios();
+        ArrayList<String> dic2Array = new ArrayList<>();
+        dic2Array = dic2.getDiccionario2();//array con el diccionario
+
+        //instancia de la clase Code, devuelve el contenido del codigo a analizar
+        Code code = new Code();
+        ArrayList<String> codeArray = new ArrayList<>();
+        codeArray = code.getCode();
+
+        String lineaCalc, tex2 = "";
+        char[] lineaC;
+        int contL;
+
+        //contenido del reporte
+        int diclen = dic2Array.size();
+        int i, j;
+
+
+        for (i = 0; i < diclen; i++) {
+            contL = 1;
+            String lineaDic = dic2Array.get(i);
+            char simb = lineaDic.charAt(0), simb2 = lineaDic.charAt(1);
+            for (String s : codeArray) {
+
+                lineaCalc = s;
+                lineaC = lineaCalc.toCharArray();
+                for (j = 0; j < lineaC.length; j++) {
+                    char var = lineaC[j], var2 = lineaC[j+1];
+
+                    if (var == simb) {
+                        if (var2 == simb2) {
+                            String res2 = "       " + lineaDic + " posición " + (j + 1) + ", linea " + contL;
+                            tex2 += res2 + "\n";
+                        }
+                    }
+                }
+                contL++;
+            }
+        }
+
+        return tex2;
+    }
+
+
+    public String Resultados() throws FileNotFoundException, IOException{
+
+        Escaneo resultados = new Escaneo();
+         //escritura de reporte
+        String text = resultados.Resultado1() +"\n"+ resultados.Resultado2();
+        FileWriter fw = new FileWriter("resultados.txt");
+        fw.write(text);
+        fw.close();
+        return text;
+    }   
+}

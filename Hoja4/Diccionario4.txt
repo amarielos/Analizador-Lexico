@@ -1,0 +1,2 @@
+/**  →  Comentario de documentación inicia
+>>>  →  Operador de cambio a la derecha sin signo
