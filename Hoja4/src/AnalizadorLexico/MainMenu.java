@@ -8,7 +8,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /*
-Esta clase es la imterfaz con el menu principal
+Esta clase es la interfaz con el menu principal
  */
 public class MainMenu extends JFrame {
     JPanel panel = new JPanel();
