@@ -8,6 +8,5 @@ public class Hoja4 {
 
         MainMenu y=new MainMenu();
         y.Ventana();
-
     }
 }
