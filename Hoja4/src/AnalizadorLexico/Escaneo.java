@@ -6,10 +6,9 @@ public class Escaneo {
 
     //instancia de la clase Code
     public ArrayList<String> getcode(String path) throws IOException {
-        String ruta = path;
         Code code = new Code();
         ArrayList<String> codeArray = new ArrayList<>();
-        codeArray = code.getCode(ruta);
+        codeArray = code.getCode(path);
 
         return codeArray;
     }
@@ -24,10 +23,10 @@ public class Escaneo {
 
 
         //devuelve el contenido del codigo a analizar
-        String ruta = path;
-        ArrayList<String> codeArray = getcode(ruta);
+        ArrayList<String> codeArray = getcode(path);
 
-        String lineaCalc, tex1 = "";
+        String lineaCalc;
+        StringBuilder tex1 = new StringBuilder();
         char[] lineaC;
         int contL;
 
@@ -50,13 +49,13 @@ public class Escaneo {
                                 j++;
                             }else {
                                 String res = "       " + lineaDic + " posición " + (j + 1) + ", linea " + contL;
-                                tex1 += res + "\n";
+                                tex1.append(res).append("\n");
                             }
                         }
                     }catch (ArrayIndexOutOfBoundsException ignored){}
                 }contL++;
             }
-        }return tex1;
+        }return tex1.toString();
     }
 
     //resultados de comparacion con datos de 2 caracteres
@@ -68,10 +67,10 @@ public class Escaneo {
         dic2Array = dic2.getDiccionario2();//array con el diccionario
 
         //devuelve el contenido del codigo a analizar
-        String ruta = path;
-        ArrayList<String> codeArray = getcode(ruta);
+        ArrayList<String> codeArray = getcode(path);
 
-        String lineaCalc, tex2 = "";
+        String lineaCalc;
+        StringBuilder tex2 = new StringBuilder();
         char[] lineaC;
         int contL;
 
@@ -96,7 +95,7 @@ public class Escaneo {
                                         j++;
                                     }else{
                                         String res2 = "       " + lineaDic + " posición " + (j + 1) + ", linea " + contL;
-                                        tex2 += res2 + "\n";
+                                        tex2.append(res2).append("\n");
                                     }
                                 }
                         }
@@ -104,7 +103,7 @@ public class Escaneo {
                 }
                 contL++;
             }
-        }return tex2;
+        }return tex2.toString();
     }
 
 
@@ -117,10 +116,9 @@ public class Escaneo {
         dic3Array = dic3.getDiccionario3();//array con el diccionario
 
         //devuelve el contenido del codigo a analizar
-        String ruta = path;
-        ArrayList<String> codeArray = getcode(ruta);
+        ArrayList<String> codeArray = getcode(path);
 
-        String tex3 = "";
+        StringBuilder tex3 = new StringBuilder();
         int contL;
         int diclen = dic3Array.size(), codelen = codeArray.size();
         int i, j;
@@ -132,15 +130,15 @@ public class Escaneo {
             for (j = 0; j < codelen; j++) {
                 String line = codeArray.get(j);
                 String[] lineArray = line.split(" ");
-                for (int k = 0; k < lineArray.length; k++){
-                    String word = lineArray[k];
+                for (String word : lineArray) {
                     if (concept.equals(word)) {
                         String res3 = "       Palabra reservada '" + concept + "', linea " + contL;
-                        tex3 += res3 + "\n";
+                        tex3.append(res3).append("\n");
                     }
-                }contL++;
+                }
+                contL++;
             }
-        }return tex3;
+        }return tex3.toString();
     }
 
     public String Resultado4(String path) throws IOException {
@@ -151,10 +149,10 @@ public class Escaneo {
         dic4Array = dic4.getDiccionario4();//array con el diccionario
 
         // devuelve el contenido del codigo a analizar
-        String ruta = path;
-        ArrayList<String> codeArray = getcode(ruta);
+        ArrayList<String> codeArray = getcode(path);
 
-        String lineaCalc, tex4 = "";
+        String lineaCalc;
+        StringBuilder tex4 = new StringBuilder();
         char[] lineaC;
         int contL;
 
@@ -176,7 +174,7 @@ public class Escaneo {
                             if (var2 == simb2) {
                                 if (var3 == simb3) {
                                     String res3 = "       " + lineaDic + " posición " + (j + 1) + ", linea " + contL;
-                                    tex4 += res3 + "\n";
+                                    tex4.append(res3).append("\n");
                                 }
                             }
                         }
@@ -184,15 +182,14 @@ public class Escaneo {
                 }
                 contL++;
             }
-        }return tex4;
+        }return tex4.toString();
     }
 
     //escribe el archivo resultados
     public String Resultados(String path) throws FileNotFoundException, IOException{
-        String ruta = path;
         //escritura de reporte
-        String text = Resultado1(ruta) +"\n"+ Resultado2(ruta)+"\n"+ Resultado3(ruta);
-        String text1 = "\n"+Resultado4(ruta);
+        String text = Resultado1(path) +"\n"+ Resultado2(path)+"\n"+ Resultado3(path);
+        String text1 = "\n"+Resultado4(path);
         String TEXT = text + text1;
         FileWriter fw = new FileWriter("Reporte.txt");
         fw.write(TEXT);

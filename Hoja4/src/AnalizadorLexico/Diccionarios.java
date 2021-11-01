@@ -71,4 +71,6 @@ public class Diccionarios {
             lineaDic = br5.readLine();
         }return dic4Array;
     }
+
+
 }
