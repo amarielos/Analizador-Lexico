@@ -16,7 +16,7 @@ public class ShowCode extends JFrame{
     JButton boton2 = new JButton("Regresar");
     JButton boton3 = new JButton("Mostrar Archivo");
     TextArea code = new TextArea();
-    JLabel label = new JLabel("Ingresa la ruta del archivo .txt a analizar:");
+    JLabel label = new JLabel("Ingresa la ruta del archivo .txt a mostrar:");
     TextField _Path = new TextField("Code.txt");
     JScrollPane sc= new JScrollPane(code);
 

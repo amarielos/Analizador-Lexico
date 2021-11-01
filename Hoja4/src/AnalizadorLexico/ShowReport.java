@@ -19,7 +19,7 @@ public class ShowReport extends JFrame {
     
     public void Ventana() throws IOException{
         setTitle("Resultados");
-        setSize(600,700);
+        setSize(600,680);
         setVisible(true);
         setLocationRelativeTo(null);
         Panel3();
@@ -37,7 +37,7 @@ public class ShowReport extends JFrame {
         boton3();
     }
     public String Path() throws IOException, FileNotFoundException {
-        _Path.setBounds(50, 70, 300, 30);
+        _Path.setBounds(50, 60, 300, 30);
         _Path.setFont(new Font("SERIF",Font.PLAIN,20));
         _Path.setEditable(true);
         String path = _Path.getText();
@@ -46,7 +46,7 @@ public class ShowReport extends JFrame {
         return path;
     }
     private void verJLabel() {
-        label.setBounds(50, 30, 350, 30);
+        label.setBounds(50, 20, 350, 30);
         label.setForeground(Color.white);
         label.setFont(new Font("SERIF", Font.PLAIN, 20));
         panel3.add(label);
@@ -54,7 +54,7 @@ public class ShowReport extends JFrame {
    
     //TextArea
     public void Resultados() throws IOException{
-        results.setBounds(50, 110, 500, 430);
+        results.setBounds(50, 110, 500, 440);
         results.setFont(new Font("SERIF",Font.PLAIN,17));
         //results.append(cont.Resultados());
         results.setEditable(false);
@@ -62,7 +62,7 @@ public class ShowReport extends JFrame {
     }
      
     public void boton2(){
-        boton2.setBounds(450, 600, 100, 30);
+        boton2.setBounds(450, 580, 100, 30);
         panel3.add(boton2);
 
         ActionListener accion = new ActionListener() {
@@ -77,7 +77,7 @@ public class ShowReport extends JFrame {
     
     }
     public void boton3() {
-        boton3.setBounds(400, 70, 150, 30);
+        boton3.setBounds(400, 60, 150, 30);
         panel3.add(boton3);
 
         ActionListener accion = new ActionListener() {

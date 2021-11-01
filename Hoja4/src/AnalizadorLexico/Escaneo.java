@@ -46,12 +46,9 @@ public class Escaneo {
                    try {
                         char var = lineaC[j],var2 = lineaC[j+1];
                         if (var == simb) {
-                            if (var2 == simb) {
-                                j+=2;
-                            }else{
                                 String res = "       " + lineaDic + " posición " + (j + 1) + ", linea " + contL;
                                 tex1 += res + "\n";
-                            }
+
                         }
                     }catch (ArrayIndexOutOfBoundsException ignored){}
                 }contL++;
