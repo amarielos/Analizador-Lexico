@@ -36,6 +36,11 @@ public class ReadPrint {
         File dic3 = new File ("Diccionario3.txt");
         FileReader fr4 = new FileReader (dic3);
         BufferedReader br4 = new BufferedReader(fr4);
+
+        //leer archivo4
+        File dic4 = new File("Diccionario4.txt");
+        FileReader fr5 = new FileReader(dic4);
+        BufferedReader br5 = new BufferedReader(fr5);
         
         //imprimir el texto       
         while((linea=br.readLine())!=null){ 
@@ -43,6 +48,9 @@ public class ReadPrint {
         }
         while ((linea=br3.readLine())!=null){
             tex+=linea+"\n"; //texto completo almacenado
+        }
+        while ((linea=br5.readLine())!=null){
+            tex+=linea+"\n";
         }
         while ((linea=br4.readLine())!=null){
             tex+=linea+"\n"; //texto completo almacenado
