@@ -1,441 +1,289 @@
-       (  →  Parentesis abierto posición 26, linea 5
-       (  →  Parentesis abierto posición 33, linea 6
-       (  →  Parentesis abierto posición 35, linea 17
-       (  →  Parentesis abierto posición 38, linea 18
-       (  →  Parentesis abierto posición 21, linea 19
-       (  →  Parentesis abierto posición 38, linea 19
-       (  →  Parentesis abierto posición 46, linea 20
-       (  →  Parentesis abierto posición 35, linea 21
+       (  →  Parentesis abierto posición 22, linea 8
+       (  →  Parentesis abierto posición 44, linea 11
+       (  →  Parentesis abierto posición 53, linea 12
+       (  →  Parentesis abierto posición 38, linea 13
+       (  →  Parentesis abierto posición 29, linea 16
+       (  →  Parentesis abierto posición 54, linea 17
+       (  →  Parentesis abierto posición 33, linea 18
        (  →  Parentesis abierto posición 35, linea 25
-       (  →  Parentesis abierto posición 68, linea 25
-       (  →  Parentesis abierto posición 35, linea 26
-       (  →  Parentesis abierto posición 36, linea 29
-       (  →  Parentesis abierto posición 20, linea 30
-       (  →  Parentesis abierto posición 37, linea 30
-       (  →  Parentesis abierto posición 62, linea 30
-       (  →  Parentesis abierto posición 87, linea 30
-       (  →  Parentesis abierto posición 37, linea 31
-       (  →  Parentesis abierto posición 62, linea 31
-       (  →  Parentesis abierto posición 87, linea 31
-       (  →  Parentesis abierto posición 37, linea 32
-       (  →  Parentesis abierto posición 21, linea 35
-       (  →  Parentesis abierto posición 35, linea 40
-       (  →  Parentesis abierto posición 38, linea 41
-       (  →  Parentesis abierto posición 21, linea 42
-       (  →  Parentesis abierto posición 38, linea 42
-       (  →  Parentesis abierto posición 46, linea 43
-       (  →  Parentesis abierto posición 35, linea 44
-       (  →  Parentesis abierto posición 23, linea 49
-       (  →  Parentesis abierto posición 30, linea 62
-       (  →  Parentesis abierto posición 55, linea 64
-       (  →  Parentesis abierto posición 58, linea 66
-       (  →  Parentesis abierto posición 40, linea 67
-       (  →  Parentesis abierto posición 57, linea 67
-       (  →  Parentesis abierto posición 63, linea 68
-       (  →  Parentesis abierto posición 52, linea 69
-       (  →  Parentesis abierto posición 39, linea 74
-       (  →  Parentesis abierto posición 30, linea 77
-       (  →  Parentesis abierto posición 55, linea 79
-       (  →  Parentesis abierto posición 58, linea 81
-       (  →  Parentesis abierto posición 40, linea 82
-       (  →  Parentesis abierto posición 57, linea 82
-       (  →  Parentesis abierto posición 63, linea 83
-       (  →  Parentesis abierto posición 52, linea 84
-       (  →  Parentesis abierto posición 19, linea 89
-       (  →  Parentesis abierto posición 31, linea 91
-       (  →  Parentesis abierto posición 33, linea 91
-       (  →  Parentesis abierto posición 69, linea 91
-       (  →  Parentesis abierto posición 31, linea 92
-       (  →  Parentesis abierto posición 31, linea 93
-       (  →  Parentesis abierto posición 40, linea 96
-       (  →  Parentesis abierto posición 24, linea 98
-       (  →  Parentesis abierto posición 43, linea 105
-       (  →  Parentesis abierto posición 19, linea 108
-       (  →  Parentesis abierto posición 15, linea 109
-       (  →  Parentesis abierto posición 32, linea 109
-       (  →  Parentesis abierto posición 57, linea 109
-       )  →  Parentesis cerrado posición 40, linea 5
-       )  →  Parentesis cerrado posición 43, linea 6
-       )  →  Parentesis cerrado posición 91, linea 17
-       )  →  Parentesis cerrado posición 39, linea 18
-       )  →  Parentesis cerrado posición 62, linea 19
-       )  →  Parentesis cerrado posición 63, linea 19
-       )  →  Parentesis cerrado posición 54, linea 20
-       )  →  Parentesis cerrado posición 43, linea 21
-       )  →  Parentesis cerrado posición 90, linea 25
-       )  →  Parentesis cerrado posición 92, linea 25
-       )  →  Parentesis cerrado posición 43, linea 28
-       )  →  Parentesis cerrado posición 37, linea 29
-       )  →  Parentesis cerrado posición 41, linea 30
-       )  →  Parentesis cerrado posición 66, linea 30
-       )  →  Parentesis cerrado posición 91, linea 30
-       )  →  Parentesis cerrado posición 41, linea 31
-       )  →  Parentesis cerrado posición 66, linea 31
-       )  →  Parentesis cerrado posición 91, linea 31
-       )  →  Parentesis cerrado posición 41, linea 32
+       (  →  Parentesis abierto posición 13, linea 29
+       (  →  Parentesis abierto posición 43, linea 31
+       (  →  Parentesis abierto posición 40, linea 32
+       (  →  Parentesis abierto posición 17, linea 33
+       (  →  Parentesis abierto posición 47, linea 36
+       (  →  Parentesis abierto posición 21, linea 37
+       (  →  Parentesis abierto posición 24, linea 40
+       (  →  Parentesis abierto posición 76, linea 41
+       (  →  Parentesis abierto posición 29, linea 53
+       (  →  Parentesis abierto posición 45, linea 56
+       (  →  Parentesis abierto posición 54, linea 57
+       (  →  Parentesis abierto posición 41, linea 58
+       (  →  Parentesis abierto posición 29, linea 61
+       (  →  Parentesis abierto posición 54, linea 62
+       (  →  Parentesis abierto posición 33, linea 63
+       (  →  Parentesis abierto posición 36, linea 70
+       (  →  Parentesis abierto posición 13, linea 74
+       (  →  Parentesis abierto posición 44, linea 76
+       (  →  Parentesis abierto posición 40, linea 77
+       (  →  Parentesis abierto posición 68, linea 77
+       (  →  Parentesis abierto posición 17, linea 78
+       (  →  Parentesis abierto posición 47, linea 81
+       (  →  Parentesis abierto posición 21, linea 82
+       (  →  Parentesis abierto posición 24, linea 85
+       (  →  Parentesis abierto posición 28, linea 86
+       (  →  Parentesis abierto posición 81, linea 87
+       (  →  Parentesis abierto posición 29, linea 100
+       (  →  Parentesis abierto posición 41, linea 102
+       (  →  Parentesis abierto posición 44, linea 104
+       (  →  Parentesis abierto posición 75, linea 104
+       (  →  Parentesis abierto posición 39, linea 105
+       (  →  Parentesis abierto posición 17, linea 106
+       (  →  Parentesis abierto posición 17, linea 107
+       )  →  Parentesis cerrado posición 23, linea 8
+       )  →  Parentesis cerrado posición 45, linea 11
+       )  →  Parentesis cerrado posición 54, linea 12
+       )  →  Parentesis cerrado posición 39, linea 13
+       )  →  Parentesis cerrado posición 30, linea 16
+       )  →  Parentesis cerrado posición 55, linea 17
+       )  →  Parentesis cerrado posición 34, linea 18
+       )  →  Parentesis cerrado posición 36, linea 25
+       )  →  Parentesis cerrado posición 36, linea 29
+       )  →  Parentesis cerrado posición 45, linea 31
        )  →  Parentesis cerrado posición 42, linea 32
-       )  →  Parentesis cerrado posición 39, linea 35
-       )  →  Parentesis cerrado posición 75, linea 40
-       )  →  Parentesis cerrado posición 39, linea 41
-       )  →  Parentesis cerrado posición 62, linea 42
-       )  →  Parentesis cerrado posición 63, linea 42
-       )  →  Parentesis cerrado posición 54, linea 43
-       )  →  Parentesis cerrado posición 43, linea 44
-       )  →  Parentesis cerrado posición 33, linea 49
-       )  →  Parentesis cerrado posición 38, linea 62
-       )  →  Parentesis cerrado posición 97, linea 65
-       )  →  Parentesis cerrado posición 59, linea 66
-       )  →  Parentesis cerrado posición 81, linea 67
-       )  →  Parentesis cerrado posición 82, linea 67
-       )  →  Parentesis cerrado posición 71, linea 68
-       )  →  Parentesis cerrado posición 60, linea 69
-       )  →  Parentesis cerrado posición 46, linea 74
-       )  →  Parentesis cerrado posición 38, linea 77
-       )  →  Parentesis cerrado posición 97, linea 80
-       )  →  Parentesis cerrado posición 59, linea 81
-       )  →  Parentesis cerrado posición 81, linea 82
-       )  →  Parentesis cerrado posición 82, linea 82
-       )  →  Parentesis cerrado posición 71, linea 83
-       )  →  Parentesis cerrado posición 60, linea 84
-       )  →  Parentesis cerrado posición 37, linea 89
-       )  →  Parentesis cerrado posición 49, linea 91
-       )  →  Parentesis cerrado posición 85, linea 91
-       )  →  Parentesis cerrado posición 101, linea 91
-       )  →  Parentesis cerrado posición 75, linea 92
-       )  →  Parentesis cerrado posición 40, linea 93
-       )  →  Parentesis cerrado posición 41, linea 96
-       )  →  Parentesis cerrado posición 34, linea 98
-       )  →  Parentesis cerrado posición 83, linea 105
-       )  →  Parentesis cerrado posición 37, linea 108
-       )  →  Parentesis cerrado posición 36, linea 109
-       )  →  Parentesis cerrado posición 61, linea 109
-       )  →  Parentesis cerrado posición 62, linea 109
-       [  →  Corchete abierto posición 33, linea 5
-       [  →  Corchete abierto posición 40, linea 19
-       [  →  Corchete abierto posición 45, linea 19
-       [  →  Corchete abierto posición 51, linea 19
-       [  →  Corchete abierto posición 55, linea 19
-       [  →  Corchete abierto posición 40, linea 42
-       [  →  Corchete abierto posición 45, linea 42
-       [  →  Corchete abierto posición 51, linea 42
-       [  →  Corchete abierto posición 55, linea 42
-       [  →  Corchete abierto posición 59, linea 67
-       [  →  Corchete abierto posición 64, linea 67
-       [  →  Corchete abierto posición 70, linea 67
-       [  →  Corchete abierto posición 74, linea 67
-       [  →  Corchete abierto posición 59, linea 82
-       [  →  Corchete abierto posición 64, linea 82
-       [  →  Corchete abierto posición 70, linea 82
-       [  →  Corchete abierto posición 74, linea 82
-       [  →  Corchete abierto posición 34, linea 93
-       ]  →  Corchete cerrado posición 34, linea 5
-       ]  →  Corchete cerrado posición 43, linea 19
-       ]  →  Corchete cerrado posición 49, linea 19
-       ]  →  Corchete cerrado posición 53, linea 19
-       ]  →  Corchete cerrado posición 59, linea 19
-       ]  →  Corchete cerrado posición 43, linea 42
-       ]  →  Corchete cerrado posición 49, linea 42
-       ]  →  Corchete cerrado posición 53, linea 42
-       ]  →  Corchete cerrado posición 59, linea 42
-       ]  →  Corchete cerrado posición 62, linea 67
-       ]  →  Corchete cerrado posición 68, linea 67
-       ]  →  Corchete cerrado posición 72, linea 67
-       ]  →  Corchete cerrado posición 78, linea 67
-       ]  →  Corchete cerrado posición 62, linea 82
-       ]  →  Corchete cerrado posición 68, linea 82
-       ]  →  Corchete cerrado posición 72, linea 82
-       ]  →  Corchete cerrado posición 78, linea 82
-       ]  →  Corchete cerrado posición 38, linea 93
-       {  →  Llave abierta posición 23, linea 34
-       }  →  Llave cerrada posición 13, linea 19
-       }  →  Llave cerrada posición 17, linea 34
-       }  →  Llave cerrada posición 13, linea 35
-       }  →  Llave cerrada posición 13, linea 42
-       }  →  Llave cerrada posición 33, linea 67
-       }  →  Llave cerrada posición 33, linea 82
-       }  →  Llave cerrada posición 13, linea 89
-       }  →  Llave cerrada posición 13, linea 108
-       }  →  Llave cerrada posición 9, linea 109
-       +  →  Signo de suma / concatenación posición 100, linea 14
-       +  →  Signo de suma / concatenación posición 41, linea 19
-       +  →  Signo de suma / concatenación posición 60, linea 19
-       +  →  Signo de suma / concatenación posición 64, linea 26
-       +  →  Signo de suma / concatenación posición 25, linea 27
-       +  →  Signo de suma / concatenación posición 25, linea 28
-       +  →  Signo de suma / concatenación posición 39, linea 30
-       +  →  Signo de suma / concatenación posición 41, linea 42
-       +  →  Signo de suma / concatenación posición 60, linea 42
-       +  →  Signo de suma / concatenación posición 27, linea 50
-       +  →  Signo de suma / concatenación posición 34, linea 51
-       +  →  Signo de suma / concatenación posición 45, linea 65
-       +  →  Signo de suma / concatenación posición 60, linea 67
-       +  →  Signo de suma / concatenación posición 79, linea 67
-       +  →  Signo de suma / concatenación posición 45, linea 80
-       +  →  Signo de suma / concatenación posición 60, linea 82
-       +  →  Signo de suma / concatenación posición 79, linea 82
-       +  →  Signo de suma / concatenación posición 36, linea 91
-       +  →  Signo de suma / concatenación posición 46, linea 91
-       +  →  Signo de suma / concatenación posición 53, linea 91
-       +  →  Signo de suma / concatenación posición 65, linea 91
-       +  →  Signo de suma / concatenación posición 72, linea 91
-       +  →  Signo de suma / concatenación posición 82, linea 91
-       +  →  Signo de suma / concatenación posición 88, linea 91
-       +  →  Signo de suma / concatenación posición 96, linea 91
-       -  →  Signo de resta posición 106, linea 14
-       -  →  Signo de resta posición 42, linea 19
-       -  →  Signo de resta posición 77, linea 26
-       -  →  Signo de resta posición 64, linea 30
-       -  →  Signo de resta posición 42, linea 42
-       -  →  Signo de resta posición 27, linea 53
-       -  →  Signo de resta posición 34, linea 54
-       -  →  Signo de resta posición 61, linea 67
-       -  →  Signo de resta posición 61, linea 82
-       /  →  Signo de división posición 27, linea 2
-       /  →  Signo de división posición 28, linea 2
-       /  →  Signo de división posición 13, linea 12
-       /  →  Signo de división posición 14, linea 12
-       /  →  Signo de división posición 13, linea 13
-       /  →  Signo de división posición 13, linea 22
-       /  →  Signo de división posición 14, linea 22
-       /  →  Signo de división posición 48, linea 27
-       /  →  Signo de división posición 64, linea 31
-       /  →  Signo de división posición 13, linea 37
-       /  →  Signo de división posición 14, linea 37
-       /  →  Signo de división posición 13, linea 45
-       /  →  Signo de división posición 14, linea 45
-       /  →  Signo de división posición 27, linea 60
-       /  →  Signo de división posición 25, linea 61
-       /  →  Signo de división posición 34, linea 71
-       /  →  Signo de división posición 36, linea 93
-       *  →  Signo de multiplicación posición 14, linea 13
-       *  →  Signo de multiplicación posición 485, linea 14
-       *  →  Signo de multiplicación posición 50, linea 19
-       *  →  Signo de multiplicación posición 63, linea 27
-       *  →  Signo de multiplicación posición 39, linea 32
-       *  →  Signo de multiplicación posición 50, linea 42
-       *  →  Signo de multiplicación posición 34, linea 58
-       *  →  Signo de multiplicación posición 26, linea 61
-       *  →  Signo de multiplicación posición 499, linea 61
-       *  →  Signo de multiplicación posición 69, linea 67
-       *  →  Signo de multiplicación posición 27, linea 73
-       *  →  Signo de multiplicación posición 69, linea 82
-       %  →  Signo de resto de división entera  posición 31, linea 28
-       %  →  Signo de resto de división entera  posición 89, linea 31
-       %  →  Signo de resto de división entera  posición 27, linea 76
-       %  →  Signo de resto de división entera  posición 34, linea 86
-       ;  →  Punto y coma  posición 25, linea 2
-       ;  →  Punto y coma  posición 42, linea 34
-       ,  →  Coma posición 27, linea 13
-       ,  →  Coma posición 29, linea 14
-       ,  →  Coma posición 108, linea 14
-       ,  →  Coma posición 266, linea 14
-       ,  →  Coma posición 276, linea 14
-       ,  →  Coma posición 400, linea 14
-       ,  →  Coma posición 421, linea 14
-       ,  →  Coma posición 49, linea 17
-       ,  →  Coma posición 49, linea 40
-       ,  →  Coma posición 80, linea 61
-       ,  →  Coma posición 124, linea 61
-       ,  →  Coma posición 168, linea 61
-       ,  →  Coma posición 219, linea 61
-       ,  →  Coma posición 278, linea 61
-       ,  →  Coma posición 341, linea 61
-       ,  →  Coma posición 368, linea 61
-       ,  →  Coma posición 419, linea 61
-       ,  →  Coma posición 446, linea 61
-       ,  →  Coma posición 55, linea 65
-       ,  →  Coma posición 42, linea 74
-       ,  →  Coma posición 55, linea 80
-       ,  →  Coma posición 53, linea 105
+       )  →  Parentesis cerrado posición 38, linea 33
+       )  →  Parentesis cerrado posición 48, linea 36
+       )  →  Parentesis cerrado posición 51, linea 37
+       )  →  Parentesis cerrado posición 36, linea 40
+       )  →  Parentesis cerrado posición 82, linea 41
+       )  →  Parentesis cerrado posición 30, linea 53
+       )  →  Parentesis cerrado posición 46, linea 56
+       )  →  Parentesis cerrado posición 55, linea 57
+       )  →  Parentesis cerrado posición 42, linea 58
+       )  →  Parentesis cerrado posición 30, linea 61
+       )  →  Parentesis cerrado posición 55, linea 62
+       )  →  Parentesis cerrado posición 34, linea 63
+       )  →  Parentesis cerrado posición 37, linea 70
+       )  →  Parentesis cerrado posición 36, linea 74
+       )  →  Parentesis cerrado posición 46, linea 76
+       )  →  Parentesis cerrado posición 42, linea 77
+       )  →  Parentesis cerrado posición 70, linea 77
+       )  →  Parentesis cerrado posición 38, linea 78
+       )  →  Parentesis cerrado posición 48, linea 81
+       )  →  Parentesis cerrado posición 51, linea 82
+       )  →  Parentesis cerrado posición 36, linea 85
+       )  →  Parentesis cerrado posición 42, linea 86
+       )  →  Parentesis cerrado posición 87, linea 87
+       )  →  Parentesis cerrado posición 30, linea 100
+       )  →  Parentesis cerrado posición 42, linea 102
+       )  →  Parentesis cerrado posición 45, linea 104
+       )  →  Parentesis cerrado posición 76, linea 104
+       )  →  Parentesis cerrado posición 56, linea 105
+       )  →  Parentesis cerrado posición 22, linea 106
+       )  →  Parentesis cerrado posición 18, linea 107
+       [  →  Corchete abierto posición 13, linea 21
+       [  →  Corchete abierto posición 38, linea 38
+       [  →  Corchete abierto posición 13, linea 66
+       [  →  Corchete abierto posición 38, linea 83
+       [  →  Corchete abierto posición 56, linea 83
+       ]  →  Corchete cerrado posición 14, linea 21
+       ]  →  Corchete cerrado posición 40, linea 38
+       ]  →  Corchete cerrado posición 14, linea 66
+       ]  →  Corchete cerrado posición 40, linea 83
+       ]  →  Corchete cerrado posición 60, linea 83
+       {  →  Llave abierta posición 22, linea 5
+       }  →  Llave cerrada posición 5, linea 109
+       +  →  Signo de suma / concatenación posición 48, linea 41
+       +  →  Signo de suma / concatenación posición 59, linea 41
+       +  →  Signo de suma / concatenación posición 74, linea 41
+       +  →  Signo de suma / concatenación posición 79, linea 41
+       +  →  Signo de suma / concatenación posición 84, linea 41
+       +  →  Signo de suma / concatenación posición 97, linea 41
+       +  →  Signo de suma / concatenación posición 30, linea 42
+       +  →  Signo de suma / concatenación posición 37, linea 42
+       +  →  Signo de suma / concatenación posición 58, linea 83
+       +  →  Signo de suma / concatenación posición 53, linea 87
+       +  →  Signo de suma / concatenación posición 64, linea 87
+       +  →  Signo de suma / concatenación posición 79, linea 87
+       +  →  Signo de suma / concatenación posición 84, linea 87
+       +  →  Signo de suma / concatenación posición 89, linea 87
+       +  →  Signo de suma / concatenación posición 102, linea 87
+       +  →  Signo de suma / concatenación posición 34, linea 88
+       +  →  Signo de suma / concatenación posición 42, linea 88
+       +  →  Signo de suma / concatenación posición 47, linea 104
+       +  →  Signo de suma / concatenación posición 52, linea 104
+       *  →  Signo de multiplicación posición 16, linea 2
+       ;  →  Punto y coma  posición 40, linea 13
+       ;  →  Punto y coma  posición 19, linea 29
+       ;  →  Punto y coma  posición 31, linea 29
+       ;  →  Punto y coma  posición 27, linea 37
+       ;  →  Punto y coma  posición 46, linea 37
+       ;  →  Punto y coma  posición 43, linea 58
+       ;  →  Punto y coma  posición 19, linea 74
+       ;  →  Punto y coma  posición 31, linea 74
+       ;  →  Punto y coma  posición 27, linea 82
+       ;  →  Punto y coma  posición 46, linea 82
+       ,  →  Coma posición 41, linea 10
+       ,  →  Coma posición 37, linea 15
+       ,  →  Coma posición 25, linea 20
+       ,  →  Coma posición 14, linea 26
+       ,  →  Coma posición 87, linea 41
+       ,  →  Coma posición 41, linea 55
+       ,  →  Coma posición 37, linea 60
+       ,  →  Coma posición 25, linea 65
+       ,  →  Coma posición 14, linea 71
+       ,  →  Coma posición 43, linea 77
+       ,  →  Coma posición 41, linea 83
+       ,  →  Coma posición 92, linea 87
+       ,  →  Coma posición 60, linea 100
        .  →  Punto posición 12, linea 2
-       .  →  Punto posición 17, linea 2
-       .  →  Punto posición 40, linea 6
-       .  →  Punto posición 169, linea 14
-       .  →  Punto posición 308, linea 14
-       .  →  Punto posición 361, linea 14
-       .  →  Punto posición 381, linea 14
-       .  →  Punto posición 484, linea 14
-       .  →  Punto posición 23, linea 17
-       .  →  Punto posición 27, linea 17
-       .  →  Punto posición 88, linea 17
-       .  →  Punto posición 29, linea 18
-       .  →  Punto posición 30, linea 19
-       .  →  Punto posición 52, linea 19
-       .  →  Punto posición 34, linea 20
-       .  →  Punto posición 23, linea 25
-       .  →  Punto posición 27, linea 25
-       .  →  Punto posición 23, linea 26
-       .  →  Punto posición 27, linea 26
-       .  →  Punto posición 105, linea 27
-       .  →  Punto posición 27, linea 29
-       .  →  Punto posición 30, linea 30
-       .  →  Punto posición 55, linea 30
-       .  →  Punto posición 80, linea 30
-       .  →  Punto posición 30, linea 31
-       .  →  Punto posición 55, linea 31
-       .  →  Punto posición 80, linea 31
-       .  →  Punto posición 30, linea 32
-       .  →  Punto posición 23, linea 40
-       .  →  Punto posición 27, linea 40
-       .  →  Punto posición 73, linea 40
-       .  →  Punto posición 29, linea 41
-       .  →  Punto posición 30, linea 42
-       .  →  Punto posición 52, linea 42
-       .  →  Punto posición 34, linea 43
-       .  →  Punto posición 497, linea 61
-       .  →  Punto posición 43, linea 64
-       .  →  Punto posición 47, linea 64
-       .  →  Punto posición 95, linea 65
-       .  →  Punto posición 49, linea 66
-       .  →  Punto posición 49, linea 67
-       .  →  Punto posición 71, linea 67
-       .  →  Punto posición 51, linea 68
-       .  →  Punto posición 35, linea 74
-       .  →  Punto posición 43, linea 79
-       .  →  Punto posición 47, linea 79
-       .  →  Punto posición 95, linea 80
-       .  →  Punto posición 49, linea 81
-       .  →  Punto posición 49, linea 82
-       .  →  Punto posición 71, linea 82
-       .  →  Punto posición 51, linea 83
-       .  →  Punto posición 19, linea 91
-       .  →  Punto posición 23, linea 91
-       .  →  Punto posición 19, linea 92
-       .  →  Punto posición 23, linea 92
-       .  →  Punto posición 19, linea 93
-       .  →  Punto posición 23, linea 93
-       .  →  Punto posición 31, linea 96
-       .  →  Punto posición 31, linea 105
-       .  →  Punto posición 35, linea 105
-       .  →  Punto posición 78, linea 105
-       .  →  Punto posición 25, linea 109
-       .  →  Punto posición 50, linea 109
-       =  →  Operador de asignación posición 20, linea 6
-       =  →  Operador de asignación posición 20, linea 7
-       =  →  Operador de asignación posición 27, linea 9
-       =  →  Operador de asignación posición 25, linea 18
-       =  →  Operador de asignación posición 26, linea 20
-       =  →  Operador de asignación posición 23, linea 21
-       =  →  Operador de asignación posición 66, linea 26
-       =  →  Operador de asignación posición 79, linea 26
-       =  →  Operador de asignación posición 31, linea 27
-       =  →  Operador de asignación posición 50, linea 27
-       =  →  Operador de asignación posición 65, linea 27
-       =  →  Operador de asignación posición 33, linea 28
-       =  →  Operador de asignación posición 23, linea 29
-       =  →  Operador de asignación posición 31, linea 33
-       =  →  Operador de asignación posición 35, linea 34
-       =  →  Operador de asignación posición 33, linea 35
-       =  →  Operador de asignación posición 25, linea 41
-       =  →  Operador de asignación posición 26, linea 43
-       =  →  Operador de asignación posición 23, linea 44
-       =  →  Operador de asignación posición 27, linea 48
-       =  →  Operador de asignación posición 29, linea 51
-       =  →  Operador de asignación posición 29, linea 54
-       =  →  Operador de asignación posición 29, linea 58
-       =  →  Operador de asignación posición 34, linea 62
-       =  →  Operador de asignación posición 35, linea 62
-       =  →  Operador de asignación posición 45, linea 66
-       =  →  Operador de asignación posición 43, linea 68
-       =  →  Operador de asignación posición 40, linea 69
-       =  →  Operador de asignación posición 29, linea 71
-       =  →  Operador de asignación posición 29, linea 74
-       =  →  Operador de asignación posición 34, linea 77
-       =  →  Operador de asignación posición 35, linea 77
-       =  →  Operador de asignación posición 45, linea 81
-       =  →  Operador de asignación posición 43, linea 83
-       =  →  Operador de asignación posición 40, linea 84
-       =  →  Operador de asignación posición 29, linea 86
-       =  →  Operador de asignación posición 31, linea 89
-       =  →  Operador de asignación posición 92, linea 91
-       =  →  Operador de asignación posición 27, linea 95
-       =  →  Operador de asignación posición 27, linea 96
-       =  →  Operador de asignación posición 35, linea 106
-       =  →  Operador de asignación posición 31, linea 108
-       |  →  Operador de suma lógica binaria posición 43, linea 30
-       |  →  Operador de suma lógica binaria posición 44, linea 30
-       |  →  Operador de suma lógica binaria posición 68, linea 30
-       |  →  Operador de suma lógica binaria posición 69, linea 30
-       |  →  Operador de suma lógica binaria posición 93, linea 30
-       |  →  Operador de suma lógica binaria posición 43, linea 31
-       |  →  Operador de suma lógica binaria posición 44, linea 31
-       |  →  Operador de suma lógica binaria posición 68, linea 31
-       |  →  Operador de suma lógica binaria posición 69, linea 31
-       |  →  Operador de suma lógica binaria posición 93, linea 31
-       |  →  Operador de suma lógica binaria posición 38, linea 109
-       |  →  Operador de suma lógica binaria posición 39, linea 109
-       !  →  Operador de negación unario posición 22, linea 19
-       !  →  Operador de negación unario posición 32, linea 35
-       !  →  Operador de negación unario posición 22, linea 42
-       !  →  Operador de negación unario posición 41, linea 67
-       !  →  Operador de negación unario posición 41, linea 82
-       !  →  Operador de negación unario posición 30, linea 89
-       !  →  Operador de negación unario posición 30, linea 108
-       ?  →  Operador condicional posición 44, linea 19
-       ?  →  Operador condicional posición 54, linea 19
-       ?  →  Operador condicional posición 66, linea 25
-       ?  →  Operador condicional posición 44, linea 42
-       ?  →  Operador condicional posición 54, linea 42
-       ?  →  Operador condicional posición 63, linea 67
-       ?  →  Operador condicional posición 73, linea 67
-       ?  →  Operador condicional posición 63, linea 82
-       ?  →  Operador condicional posición 73, linea 82
-       ?  →  Operador condicional posición 70, linea 92
+       .  →  Punto posición 15, linea 2
+       .  →  Punto posición 12, linea 3
+       .  →  Punto posición 17, linea 3
+       .  →  Punto posición 23, linea 13
+       .  →  Punto posición 25, linea 18
+       .  →  Punto posición 30, linea 25
+       .  →  Punto posición 39, linea 31
+       .  →  Punto posición 33, linea 32
+       .  →  Punto posición 35, linea 36
+       .  →  Punto posición 39, linea 37
+       .  →  Punto posición 25, linea 58
+       .  →  Punto posición 25, linea 63
+       .  →  Punto posición 31, linea 70
+       .  →  Punto posición 40, linea 76
+       .  →  Punto posición 33, linea 77
+       .  →  Punto posición 61, linea 77
+       .  →  Punto posición 35, linea 81
+       .  →  Punto posición 39, linea 82
+       .  →  Punto posición 33, linea 104
+       .  →  Punto posición 64, linea 104
+       .  →  Punto posición 51, linea 105
+       .  →  Punto posición 11, linea 106
+       .  →  Punto posición 11, linea 107
+       =  →  Operador de asignación posición 26, linea 11
+       =  →  Operador de asignación posición 36, linea 12
+       =  →  Operador de asignación posición 18, linea 13
+       =  →  Operador de asignación posición 19, linea 16
+       =  →  Operador de asignación posición 37, linea 17
+       =  →  Operador de asignación posición 19, linea 18
+       =  →  Operador de asignación posición 32, linea 20
+       =  →  Operador de asignación posición 20, linea 25
+       =  →  Operador de asignación posición 16, linea 29
+       =  →  Operador de asignación posición 19, linea 30
+       =  →  Operador de asignación posición 29, linea 31
+       =  →  Operador de asignación posición 23, linea 32
+       =  →  Operador de asignación posición 27, linea 35
+       =  →  Operador de asignación posición 24, linea 36
+       =  →  Operador de asignación posición 24, linea 37
+       =  →  Operador de asignación posición 30, linea 38
+       =  →  Operador de asignación posición 36, linea 41
+       =  →  Operador de asignación posición 31, linea 42
+       =  →  Operador de asignación posición 27, linea 56
+       =  →  Operador de asignación posición 37, linea 57
+       =  →  Operador de asignación posición 19, linea 58
+       =  →  Operador de asignación posición 19, linea 61
+       =  →  Operador de asignación posición 37, linea 62
+       =  →  Operador de asignación posición 19, linea 63
+       =  →  Operador de asignación posición 32, linea 65
+       =  →  Operador de asignación posición 20, linea 70
+       =  →  Operador de asignación posición 16, linea 74
+       =  →  Operador de asignación posición 19, linea 75
+       =  →  Operador de asignación posición 29, linea 76
+       =  →  Operador de asignación posición 23, linea 77
+       =  →  Operador de asignación posición 51, linea 77
+       =  →  Operador de asignación posición 27, linea 80
+       =  →  Operador de asignación posición 24, linea 81
+       =  →  Operador de asignación posición 24, linea 82
+       =  →  Operador de asignación posición 30, linea 83
+       =  →  Operador de asignación posición 48, linea 83
+       =  →  Operador de asignación posición 41, linea 87
+       =  →  Operador de asignación posición 35, linea 88
+       =  →  Operador de asignación posición 28, linea 102
+       =  →  Operador de asignación posición 21, linea 104
+       =  →  Operador de asignación posición 23, linea 105
+       <  →  Operador menor que posición 18, linea 12
+       <  →  Operador menor que posición 51, linea 12
+       <  →  Operador menor que posición 18, linea 17
+       <  →  Operador menor que posición 52, linea 17
+       <  →  Operador menor que posición 23, linea 29
+       <  →  Operador menor que posición 31, linea 37
+       <  →  Operador menor que posición 18, linea 57
+       <  →  Operador menor que posición 52, linea 57
+       <  →  Operador menor que posición 18, linea 62
+       <  →  Operador menor que posición 52, linea 62
+       <  →  Operador menor que posición 23, linea 74
+       <  →  Operador menor que posición 31, linea 82
+       >  →  Operador mayor que posición 25, linea 12
+       >  →  Operador mayor que posición 52, linea 12
+       >  →  Operador mayor que posición 25, linea 17
+       >  →  Operador mayor que posición 53, linea 17
+       >  →  Operador mayor que posición 25, linea 57
+       >  →  Operador mayor que posición 53, linea 57
+       >  →  Operador mayor que posición 25, linea 62
+       >  →  Operador mayor que posición 53, linea 62
 
-       ==  →  Operador igual que posición 34, linea 62
-       ==  →  Operador igual que posición 34, linea 77
-       !=  →  Operador diferente que posición 32, linea 35
-       !=  →  Operador diferente que posición 30, linea 89
-       !=  →  Operador diferente que posición 30, linea 108
-       ||  →  Operador lógico OR posición 43, linea 30
-       ||  →  Operador lógico OR posición 68, linea 30
-       ||  →  Operador lógico OR posición 43, linea 31
-       ||  →  Operador lógico OR posición 68, linea 31
-       ||  →  Operador lógico OR posición 38, linea 109
-       //  →  Comentario de una linea posición 27, linea 2
-       //  →  Comentario de una linea posición 13, linea 12
-       //  →  Comentario de una linea posición 13, linea 22
-       //  →  Comentario de una linea posición 13, linea 37
-       //  →  Comentario de una linea posición 13, linea 45
-       /*  →  Comentario de una o más líneas inicia posición 13, linea 13
-       /*  →  Comentario de una o más líneas inicia posición 25, linea 61
+       ++  →  Operador incremento posición 34, linea 29
+       ++  →  Operador incremento posición 49, linea 37
+       ++  →  Operador incremento posición 22, linea 45
+       ++  →  Operador incremento posición 34, linea 74
+       ++  →  Operador incremento posición 49, linea 82
+       ++  →  Operador incremento posición 22, linea 92
+       ==  →  Operador igual que posición 29, linea 40
+       ==  →  Operador igual que posición 29, linea 85
+       ==  →  Operador igual que posición 34, linea 86
+       +=  →  Operador suma combinada posición 30, linea 42
+       +=  →  Operador suma combinada posición 34, linea 88
+       //  →  Comentario de una linea posición 5, linea 7
+       //  →  Comentario de una linea posición 9, linea 10
+       //  →  Comentario de una linea posición 41, linea 13
+       //  →  Comentario de una linea posición 9, linea 15
+       //  →  Comentario de una linea posición 9, linea 24
+       //  →  Comentario de una linea posición 5, linea 52
+       //  →  Comentario de una linea posición 9, linea 55
+       //  →  Comentario de una linea posición 44, linea 58
+       //  →  Comentario de una linea posición 9, linea 60
+       //  →  Comentario de una linea posición 9, linea 69
+       //  →  Comentario de una linea posición 10, linea 103
 
-       Palabra reservada 'boolean', linea 9
-       Palabra reservada 'case', linea 50
-       Palabra reservada 'case', linea 53
-       Palabra reservada 'case', linea 56
-       Palabra reservada 'case', linea 57
-       Palabra reservada 'case', linea 60
-       Palabra reservada 'case', linea 73
-       Palabra reservada 'case', linea 76
-       Palabra reservada 'case', linea 99
-       Palabra reservada 'case', linea 100
-       Palabra reservada 'case', linea 101
-       Palabra reservada 'case', linea 102
-       Palabra reservada 'class', linea 4
-       Palabra reservada 'do', linea 16
-       Palabra reservada 'do', linea 24
-       Palabra reservada 'do', linea 39
-       Palabra reservada 'do', linea 63
-       Palabra reservada 'do', linea 78
-       Palabra reservada 'double', linea 7
-       Palabra reservada 'double', linea 20
-       Palabra reservada 'double', linea 21
-       Palabra reservada 'double', linea 43
-       Palabra reservada 'double', linea 44
-       Palabra reservada 'if', linea 30
+       Palabra reservada 'char', linea 32
+       Palabra reservada 'char', linea 38
+       Palabra reservada 'char', linea 77
+       Palabra reservada 'char', linea 83
+       Palabra reservada 'class', linea 5
+       Palabra reservada 'for', linea 29
+       Palabra reservada 'for', linea 33
+       Palabra reservada 'for', linea 37
+       Palabra reservada 'for', linea 74
+       Palabra reservada 'for', linea 78
+       Palabra reservada 'for', linea 82
+       Palabra reservada 'if', linea 40
+       Palabra reservada 'if', linea 85
+       Palabra reservada 'if', linea 86
        Palabra reservada 'import', linea 2
-       Palabra reservada 'new', linea 6
-       Palabra reservada 'new', linea 21
-       Palabra reservada 'new', linea 44
-       Palabra reservada 'new', linea 69
-       Palabra reservada 'new', linea 84
+       Palabra reservada 'import', linea 3
+       Palabra reservada 'int', linea 22
+       Palabra reservada 'int', linea 25
+       Palabra reservada 'int', linea 26
+       Palabra reservada 'int', linea 67
+       Palabra reservada 'int', linea 70
+       Palabra reservada 'int', linea 71
+       Palabra reservada 'new', linea 11
+       Palabra reservada 'new', linea 12
+       Palabra reservada 'new', linea 16
+       Palabra reservada 'new', linea 17
+       Palabra reservada 'new', linea 56
+       Palabra reservada 'new', linea 57
+       Palabra reservada 'new', linea 61
+       Palabra reservada 'new', linea 62
+       Palabra reservada 'new', linea 102
+       Palabra reservada 'new', linea 105
        Palabra reservada 'package', linea 1
-       Palabra reservada 'public', linea 4
        Palabra reservada 'public', linea 5
-       Palabra reservada 'static', linea 5
-       Palabra reservada 'switch', linea 98
-       Palabra reservada 'while', linea 19
-       Palabra reservada 'while', linea 35
-       Palabra reservada 'while', linea 42
+       Palabra reservada 'public', linea 53
+       Palabra reservada 'public', linea 100
+       Palabra reservada 'return', linea 48
+       Palabra reservada 'return', linea 96
+       Palabra reservada 'return', linea 108
+       Palabra reservada 'throws', linea 8
+       Palabra reservada 'throws', linea 53
+       Palabra reservada 'throws', linea 100
 
