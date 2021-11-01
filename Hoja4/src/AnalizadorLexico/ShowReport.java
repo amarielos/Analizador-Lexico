@@ -19,7 +19,7 @@ public class ShowReport extends JFrame {
     
     public void Ventana() throws IOException{
         setTitle("Resultados");
-        setSize(600,680);
+        setSize(610,680);
         setVisible(true);
         setLocationRelativeTo(null);
         Panel3();

@@ -1,9 +1,7 @@
 package AnalizadorLexico;
 import java.io.*;
 
-public class ReadPrint { 
-    
-    
+public class ReadPrint {
     
     public String Codigo(String path) throws FileNotFoundException, IOException{
         //leer archivo

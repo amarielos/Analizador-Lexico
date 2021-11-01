@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Escaneo {
 
-    //instancia de la clase Code,
+    //instancia de la clase Code
     public ArrayList<String> getcode(String path) throws IOException {
         String ruta = path;
         Code code = new Code();

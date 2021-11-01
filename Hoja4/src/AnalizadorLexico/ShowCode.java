@@ -9,7 +9,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class ShowCode extends JFrame{
-    ShowReport result = new ShowReport();
     ReadPrint cont = new ReadPrint();
     JPanel panel2 = new JPanel();
     JButton boton1 = new JButton("Escanear código");
