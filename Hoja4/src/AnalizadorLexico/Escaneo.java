@@ -194,7 +194,7 @@ public class Escaneo {
         String text = Resultado1(ruta) +"\n"+ Resultado2(ruta)+"\n"+ Resultado3(ruta);
         String text1 = "\n"+Resultado4(ruta);
         String TEXT = text + text1;
-        FileWriter fw = new FileWriter("resultados.txt");
+        FileWriter fw = new FileWriter("Reporte.txt");
         fw.write(TEXT);
         fw.close();
         return TEXT;
